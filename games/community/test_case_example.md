@@ -1,7 +1,7 @@
 ### Games community
 #### Get comments
 
-Тестовые данные
+Тестовые данные: https://games.alpha.g-spot.website/api/v1/community/comments/1/
 
 1. Step
 2. Step
