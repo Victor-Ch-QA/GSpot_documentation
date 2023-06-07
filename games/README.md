@@ -6,13 +6,13 @@
 <details>
 <summary>Smoke</summary>
 
-[Test case example](https://github.com/Victor-Ch-QA/GSpot_documentation/blob/main/games/community/community_comments_review_id.md)
+[Test case example](community/community_comments_review_id.md)
 </details>
 
 
 <details>
 <summary>Regression</summary>
 
-[Test case example](https://github.com/Victor-Ch-QA/GSpot_documentation/blob/main/games/community/community_comments_review_id.md)
+[Test case example](community/community_comments_review_id.md)
 
 </details>
