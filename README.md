@@ -12,5 +12,6 @@
 * frontend - тестовая документация, относящаяся к frontend
 * users, games, payments, channels - тестовая документация backend сервисов
     - структура директрий внутри сервиса повторяет структуру api запросов
-    - games/community/community_comments_review_id.md - тест-кейс, для проверки метода get
+    - метод пишется в названии файла в конце (get, post, delete и т.д.)
+    - games/community/community_comments_review_id_get.md - тест-кейс, для проверки метода get. 
 * src - для изображений и прочего
