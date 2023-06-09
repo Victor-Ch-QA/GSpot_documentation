@@ -1,5 +1,5 @@
 # GSpot - тестовая документация
-ПРИВЕТ)
+
 Инструкция
 
 1. Сделать Fork в свой репозиторий <details><summary>Скриншот</summary>![Fork](src/img/fork_example.png)</details>
