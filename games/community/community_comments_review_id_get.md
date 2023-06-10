@@ -11,7 +11,7 @@
 6. Ввести URL: https://games.alpha.g-spot.website/api/v1/community/comments/787141/?page=1&per_page=2
 7. Отправить Request(Запрос) (для этого нажать на синию кнопку 'Send')
 
-8. Ожидаемый результат:
+Ожидаемый результат:
 Server response: status code 200 - OK(Просмотр в сообществе созданных комментариев по ID)
 
 Постусловие: удалить тестовые данные
